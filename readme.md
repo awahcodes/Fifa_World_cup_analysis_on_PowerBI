@@ -4,10 +4,10 @@ DAX was used to calculate measures.
 Dashboard was made using relatable visuals.
 A total of 59 team participated in the games
 Below wer highlights for the 5 years:
-Total Games played: 640
-Total wins: 247
-Total Goals against: 793
-Total Goals for: 793
-Total Draw: 146
+Total Games played: 640;
+Total wins: 247;
+Total Goals against: 793;
+Total Goals for: 793;
+Total Draw: 146.
 
 The dashboard is interactive with the year as a slicer to filter further to what the highlights were for each year.
